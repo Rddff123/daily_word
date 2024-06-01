@@ -6,6 +6,17 @@
 - This program is for educational use or personal use only.
 - In case there are any copyright issues, find me at rddff236ss@hotmail.com
 
+#How to use it
+- EXE
+  1. Run update.exe for first time
+  2. After running, run random_word.exe
+
+- Python file
+  1. Run update.py for first time
+  2. After running, run random_word.py
+
+
+
 
 
 
